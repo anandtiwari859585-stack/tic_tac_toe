@@ -35,6 +35,3 @@ Author
 
 Made by anandtiwari859585-stack
 
-License
-
-Add a license of your choice (MIT is a common default).
